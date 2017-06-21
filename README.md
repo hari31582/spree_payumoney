@@ -7,11 +7,11 @@ This is a PayUMoney extension for spree 3.2.
 
 1. Add this extension to your Gemfile with this line:
 
-        gem 'spree_payumoney', :github => "hingale/spree_payumoney"
+        gem 'spree_payumoney', :github => "hari31582/spree_payumoney"
 
         If you want to use the latest build add this line to GemFile
 
-        gem 'spree_payumoney', :github => "hingale/spree_payumoney", :branch => "master"
+        gem 'spree_payumoney', :github => "hari31582/spree_payumoney", :branch => "master"
 
 
 2. Install the gem using Bundler:
