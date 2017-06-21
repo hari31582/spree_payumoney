@@ -20,7 +20,7 @@ This is a PayUMoney extension for spree 3.2.
 
 3. Copy & run migrations
 
-        bundle exec rails g spree_payumoney:install
+        bundle exec rails g spree_payupaisa_express:install
 
 4. Restart your server
 
